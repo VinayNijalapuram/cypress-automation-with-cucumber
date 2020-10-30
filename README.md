@@ -55,22 +55,31 @@ Feature: The PHP Travels
   (Results)
 
   ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
-  │ Tests:        1                                                                                │
-  │ Passing:      1                                                                                │
-  │ Failing:      0                                                                                │
-  │ Pending:      0                                                                                │
-  │ Skipped:      0                                                                                │
-  │ Screenshots:  0                                                                                │
-  │ Video:        true                                                                             │
-  │ Duration:     16 seconds                                                                       │
+  │ Tests:        1 
+  │
+  │ Passing:      1 
+  │
+  │ Failing:      0 
+  │
+  │ Pending:      0 
+  │
+  │ Skipped:      0 
+  │
+  │ Screenshots:  0 
+  │
+  │ Video:        true 
+  │
+  │ Duration:     16 seconds    
+  │
   │ Spec Ran:     travels/Travels.feature                                                          │
   └────────────────────────────────────────────────────────────────────────────────────────────────┘
 
 
   (Video)
 
-  -  Started processing:  Compressing to 32 CRF                                                     
-  -  Finished processing: /Users/sarahbaldwin/Desktop/workspace/cypress-automation/cy     (1 second)
+  -  Started processing:  Compressing to 32 CRF 
+  
+  -  Finished processing: /Users/workspace/cypress-automation/cy     (1 second)
                           press/videos/travels/Travels.feature.mp4                                  
 
 
@@ -83,6 +92,7 @@ Feature: The PHP Travels
   ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
   │ ✔  travels/Travels.feature                  00:16        1        1        -        -        - │
   └────────────────────────────────────────────────────────────────────────────────────────────────┘
+  
     ✔  All specs passed!                        00:16        1        1        -        -        -  
 
 
